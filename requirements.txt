@@ -26,6 +26,7 @@ django-environ==0.7.0
 django-filter==21.1
 django-phonenumber-field==5.2.0
 django-rest-paystack==2.2.2
+django_taggit==1.2.0
 django-templated-mail==1.1.1
 djangorestframework==3.12.4
 djangorestframework-simplejwt==4.8.0
