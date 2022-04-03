@@ -30,7 +30,8 @@ DJANGO_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
-    'django.contrib.sitemaps'
+    'django.contrib.sitemaps',
+    'django.contrib.postgres',
 ]
 
 SITE_ID = 1
